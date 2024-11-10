@@ -1,10 +1,10 @@
-
+# big-bear-pterodactyl-panel configuration
 name: Pyrodactyl
 
 # Services section that specifies how the different services should be run
 services:
   # This is the main app service for Pterodactyl Panel
-  panel:
+  app:
     # Container configuration for the Pterodactyl Panel
     container_name: pyrodactyl-panel
     # Image to use for the panel
@@ -181,3 +181,9 @@ x-casaos:
   # Port mapping information
   port_map: "1180"
   scheme: http
+  tips:
+    before_install:
+      en_us: |
+        Before you can use Pterodactyl Panel, you need to read the installation guide.
+
+        [Install Guide Link](https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/pterodactyl-panel)
