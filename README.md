@@ -20,17 +20,3 @@ Simply copy the provided source link and add it to your CasaOS settings to acces
 
 - [Awesome Store list](https://awesome.casaos.io/content/3rd-party-app-stores/list.html)
 
-## Contributors
-
-<a href="https://github.com/IceWhaleTech/CasaOS-AppStore/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=IceWhaleTech/CasaOS-AppStore" />
-</a>
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
