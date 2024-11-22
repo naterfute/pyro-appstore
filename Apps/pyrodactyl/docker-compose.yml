@@ -172,10 +172,10 @@ x-casaos:
   author: Pyrohost # Author of this configuration
   icon: 
   # Thumbnail image (currently empty)
-  thumbnail: ""
+  thumbnail: "https://github.com/naterfute/pyro-appstore/blob/main/Apps/pyrodactyl/icon.png?raw=true"
   # Title of the application in English
   title:
-    en_us: Pterodactyl Panel
+    en_us: Pyrodactyl Panel
   # Application category
   category: PyroHost
   # Port mapping information
@@ -184,6 +184,6 @@ x-casaos:
   tips:
     before_install:
       en_us: |
-        Before you can use Pterodactyl Panel, you need to read the installation guide.
+        Before you can use Pyrodactyl Panel, you need to read the installation guide.
 
-        [Install Guide Link](https://github.com/bigbeartechworld/big-bear-casaos/tree/master/Apps/pterodactyl-panel)
+        [Install Guide Link](https://github.com/pyrohost/pyrodactyl#running-pyrodactyl)
